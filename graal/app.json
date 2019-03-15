@@ -1,0 +1,12 @@
+[
+  {
+    "name": "com.sample.SampleHandler",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods": true
+  },
+  {
+    "name": "com.sample.Sample",
+    "allDeclaredConstructors" : true,
+    "allDeclaredMethods": true
+  }
+]
